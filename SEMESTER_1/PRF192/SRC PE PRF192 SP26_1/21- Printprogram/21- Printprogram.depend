@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670055642 source:c:\coder\21- printprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676723691 source:c:\coder\q5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

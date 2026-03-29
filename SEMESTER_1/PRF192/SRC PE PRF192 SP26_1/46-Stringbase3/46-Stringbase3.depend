@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1676120101 source:c:\coder\46-stringbase3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676121804 source:d:\coder\46-stringbase3\main.c
+	<stdio.h>
+	<stdlib.h>
+

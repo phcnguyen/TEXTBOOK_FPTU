@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669472446 source:c:\coder\15-inputrightform\main.c
+	<stdio.h>
+	<stdlib.h>
+

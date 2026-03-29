@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668611195 source:d:\code\08-evencount\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668951471 source:c:\coder\08-evencount\main.c
+	<stdio.h>
+	<stdlib.h>
+

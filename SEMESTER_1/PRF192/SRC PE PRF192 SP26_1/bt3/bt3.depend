@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670681760 source:c:\coder\bt3\main.c
+	<stdio.h>
+	<stdlib.h>
+
