@@ -2,14 +2,15 @@
 
 int main()
 {
-	int i =0, n =10;
-	int array[n] = {12,9,8,1,4,6,8,5,3,1};
+	int s =0;
 	
-	do {
-		printf("%d \t", array[i]);
-		i++;
-	} while(i < n);
+	for (int i =0; i<= 2; i++)
+	{
+		for (int j = 1; j <=3; j++)
+		{
+			s = s + (2*i + 3*j);
+		}
+	}
 	
-	
-	return 0;
+	printf("%i", s);
 }
